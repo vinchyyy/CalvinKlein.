@@ -1,0 +1,528 @@
+body{
+    font-family:  'Raleway', sans-serif;
+    margin: 0%;
+}
+.frete-cima{
+    color: white;
+    height: 50px;
+    width: 100%;
+    top: -18px;
+    text-align:center;
+    position: relative;
+    background-color: black;
+}
+.title-frete{
+    position: relative;
+    top: 23px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Menu{
+list-style: none;
+padding: 0;
+display: flex;
+flex-direction: row;
+gap: 58px;
+font-size: 22px;
+position: relative;
+top: 7px;
+transition: color .4s ease;
+color: black;
+justify-content: center;
+
+}
+
+
+
+.Menu li:hover{
+color: rgb(168, 168, 168);
+
+}
+
+
+
+
+.Logo{
+    width: 1250px;
+    height: 31px;
+    top: 25px;
+     position: relative;
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;  
+}
+.icones{
+    width: 35px;
+    height: 30px;
+    display: flex;
+    position: relative;
+    margin-left: 1150px;
+    
+}
+
+.carrinho{
+    margin-right: 20px;
+    position: relative;
+}
+
+.favoritos{
+    margin-left: -128px;
+    position: relative;
+}
+.usuario:hover{
+    gap: 15px;
+    position: relative;
+    transform: scale(1.2);
+}
+.carrinho:hover{
+    gap: 15px;
+    position: relative;
+    transform: scale(1.2);
+    color: #D9D9D9;
+}
+
+.favoritos:hover{
+    gap: 15px;
+    position: relative;
+    transform: scale(1.2);
+    color: #D9D9D9;
+}
+    
+ 
+    
+.pesquisa{
+    top: 8px;
+    border: none;
+    background-color: #D9D9D9;
+    position: relative;
+    width: 1180px;
+    border-radius: 2px;
+    height: 22px;
+    left: 45px;
+}
+.banner{
+    width: 1185px;
+    height: 500px;
+    position: relative;
+    top: 65px;
+    justify-content: center;
+    left: 46px;
+}
+.categorias-banner{
+    left: 29px;
+    position: relative;
+    top: 10px;
+    justify-content: center;
+    padding: 20px;
+}
+.imagem1{
+    position: relative;
+    justify-content: center;
+    
+}
+
+.imagem2{
+    left: 10px;
+    position: relative;
+}
+
+.imagem3{
+    left: 19px;
+    position: relative;
+}
+
+.imagem1:hover{
+    position: relative;
+    gap: 25px;
+    justify-content: center;
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+.imagem2:hover{
+    position: relative;
+    padding: 7px;
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+.imagem3:hover{
+    position: relative;
+    padding: 7px;
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+.bloco-frete{
+    position: relative;
+    top: 80px;
+    left: 46px;
+    justify-content: center;
+}
+.frete{
+    width: 1185px;
+}
+.title{
+    position: relative;
+    top: -20px;
+    left: 45px;
+    font-size: 40px;
+}
+.bloco-pecas{
+    position: relative;
+    top: 0;
+    padding: 25px;
+    left: 27px;
+}
+.pecas1{
+width: 265px;
+padding: 15px;
+}
+.pecas2{
+    width: 265px;
+    padding: 15px;
+}
+.pecas3{
+    width: 265px;
+    padding: 15px;
+}
+.pecas4{
+    width: 265px;
+    padding: 15px;
+}
+.bloco-bolsas{
+    position: relative;
+    top: -70px;
+    padding: 25px;
+    left: 27px;
+}
+
+.title2{
+    position: relative;
+    top: -20px;
+    left: 45px;
+    font-size: 40px;
+}
+
+.bolsas{
+    position: relative;
+    top: -36px;
+    left: 55px;
+    font-size: 40px;
+}
+.bolsa1{
+width: 265px;
+padding: 15px;
+}
+.bolsa2{
+    width: 265px;
+    padding: 15px;
+}
+.bolsa3{
+    width: 265px;
+    padding: 15px;
+}
+.bolsa4{
+    width: 265px;
+    padding: 15px;
+}
+.banner2{
+    width: 1248px;
+    position: relative;
+    top: -77px;
+    justify-content: center;
+    left: 30px;
+}
+
+.botão-gif{
+    font-family: 'Raleway', sans-serif ;
+    font-weight: bold;
+    color: white;
+    background-color: #000000;
+    width: 285px;
+    height: 58px;
+    position: relative;
+    top: -171px;
+    left: 719px;
+    border: none;
+    font-size: 20px;
+}
+
+.moletom-perfume{
+    position: relative;
+    top: -15px;
+    left: 96px;
+    margin-top: -47px;
+}
+.moletom{
+    padding: 25px;
+    position: relative;
+}
+.perfume{
+    padding: 25px;
+    position: relative;
+}
+.categorias-finais{
+    width: 100%;
+    height: 375px ;
+    background-color: #D9D9D9;
+    position: relative;
+    top: 135px;
+    margin-top: -190px;
+}
+.posicion{
+    position: relative;
+    position: relative;
+    top: 0px;
+    left: 55px;
+}
+.categoria1{
+padding: 15px;
+}
+.categoria2{
+    padding: 15px; 
+}
+.categoria3{
+    padding: 15px;
+}
+.categoria4{
+    padding: 15px;
+}
+.rosape-final{
+    width: 100%;
+    height: 600px;
+    top: 135px;
+    position: relative;
+    background-color: #000000;
+}
+.menu-final{
+list-style: none;
+ padding: 0;
+ display: flex;
+ flex-direction: row;
+ gap: 185px;
+ font-size: 25px;
+ position: relative;
+ top: 100px;
+ justify-content: center;
+ color: white;
+}
+.menu-final li{
+ position: relative;
+ padding: 10px;
+}
+.linha-rodape{
+  margin-top: 170px;
+  position: absolute;
+  left: 15px;
+  width: 1250px;
+  height: 1px;
+  border-radius: 20px;
+  background-color: white;
+}
+.logo-final{
+    width: 200px;
+    position: relative;
+    top: 40px;
+    left: 580px;
+    display: flex;
+    
+}
+.menu-fina2{
+color: white;
+list-style: none;
+ left: 50px;
+ flex-direction: row;
+ gap: 130px;
+ font-size: 15px;
+ position: relative;
+ top: 100px;
+ line-height: 3.0;
+ 
+}
+.menu-fina3{
+    color: white;
+    position: relative;
+    left: 513px;
+    list-style: none;
+    top: -232px;
+    line-height: 3.0;
+
+
+    
+    
+}
+.menu-fina4{
+    color: white;
+    position: relative;
+    left: 807px;
+    list-style: none;
+    top: -582px;
+    line-height: 3.0;
+    
+}
+.menu-fina5{
+    color: white;
+    position: relative;
+    left: 1056px;
+    list-style: none;
+    top: -888px;
+    line-height: 3.0;
+}
+.icone-face{
+    width: 38px;
+    position: relative;
+    left: 10px;
+    top: 1px;
+}
+.insta{
+    width: 38px;
+    position: relative;
+    left: 20px;
+    top: 1px;
+}
+
+.text-rodapé{
+    top: -60px;
+    position: relative;
+    height: 0px;
+}
+
+
+#banner-container {
+
+    width: 1185px;
+    height: 500px;
+    position: relative;
+    top: 21px;
+    justify-content: center;
+    left: 46px;
+    overflow: hidden;
+    position: relative;
+  
+  }
+  
+  #banner-images {
+  
+    display: flex;
+  
+    transition: transform 1s ease-in-out;
+  
+  }
+  
+  .banner-image {
+  
+    flex: 0 0 100%;
+  
+    max-width: 100%;
+  
+    height: auto;
+  
+  }
+
+  .gif{
+    top: -50px;
+    position: relative;
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .home{
+    top: -19px;
+    position: relative;
+  }
+
+  .video-jennie{
+    width: 1170px;
+    top: -65px;
+    justify-content: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+    left: 62px;
+    margin-top: 70px;
+  }
+
+  .botão-perfumes{
+    font-family: 'Raleway', sans-serif ;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    width: 202px;
+    height: 41px;
+    position: relative;
+    top: -105px;
+    left: -182px;
+    border: black 1px solid;
+    font-size: 20px;
+  }
+
+  .botão-acessórios{
+    font-family: 'Raleway', sans-serif ;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    width: 202px;
+    height: 41px;
+    position: relative;
+    top: -105px;
+    left: 592px;
+    border: black 1px solid;
+    font-size: 20px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  .title-perfumes{
+    top: -102px;
+    left: 23px;
+    font-weight: bolder;
+    position: relative;
+  }
+
+  .title-acessórios{
+    top: -39px;
+    left: 593px;
+    font-weight: bolder;
+    position: relative;
+  }
+
+
+  button:hover {
+    background-color: black;
+    color: white;
+  }
+  
+
+  .botão-perfumes a:hover{
+    background-color: grey;
+}
+
+/* .carousel-container {
+    overflow: hidden;
+    width: 80%;
+    margin: 0 auto;
+  }
+   */
+  .carousel {
+    display: flex;
+    width: 100%;
+    left: 31px;
+    position: relative;
+    transition: transform 0.3s ease-in-out;
+    margin-top: -40px;
+  }
+  
+  /* .product {
+    width: 200px;
+    height: 150px;
+    background-color: #ddd;
+    margin: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+    cursor: grab;
+  }
+  
+  .product:active {
+    cursor: grabbing;
+  } */
+  
+ 
+  
